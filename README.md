@@ -1,7 +1,7 @@
 # sharex_pin_screen
 使用Python 调用ShareX实现贴图功能
 
-Using Python to call ShareX for screenshot functionality
+Using Python to call ShareX for PinToScreen functionality
 
 注意：该脚本应该放在sharex的安装路径中
 
